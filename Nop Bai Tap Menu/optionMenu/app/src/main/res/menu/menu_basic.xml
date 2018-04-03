@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Tải xuống"
+        android:icon="@drawable/icon"
+        app:showAsAction="always"
+        android:id="@+id/menuTaiXuong"/>
+    <item android:title="Tab mới"/>
+    <item android:title="Lịch sử"/>
+    <item android:title="Dấu trang"/>
+    <item android:title="Cài đặt">
+        <menu>
+            <item android:title="Bảo mật" />
+            <item android:title="Truy cập" />
+            <item android:title="Giới thiệu Chrome" />
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Hân"
+        android:id="@+id/han"/>
+    <item android:title="Nguyên"
+        android:id="@+id/nguyen"/>
+    <item android:title="Tuyền"
+        android:id="@+id/tuyen"/>
+    <item android:title="Oanh"
+        android:id="@+id/oanh"/>
+    <item android:title="Cường"
+        android:id="@+id/cuong"/>
+</menu>
